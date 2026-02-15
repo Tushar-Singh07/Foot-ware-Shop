@@ -1,0 +1,73 @@
+{
+
+"RecentArrivelProducts": [
+        { "id": 1, "image": "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2hvZXN8ZW58MHx8MHx8fDA%3D","type":"RecentArrivelProducts", "name": "Classic Leather Shoes", "price": "$95.00", "rating": 0, "sale": false },
+        { "id": 2, "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2hvZXN8ZW58MHx8MHx8fDA%3D","type":"RecentArrivelProducts", "name": "Elegant Black Heels", "price": "$80.00", "rating": 4, "sale": false },
+        { "id": 3, "image": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNob2VzfGVufDB8fDB8fHww","type":"RecentArrivelProducts", "name": "Sporty Sneakers", "price": "$80.00", "oldPrice": "$140.00", "rating": 0, "sale": true },
+        { "id": 4, "image": "https://images.unsplash.com/photo-1543508282-6319a3e2621f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHNob2VzfGVufDB8fDB8fHww","type":"RecentArrivelProducts", "name": "Casual Loafers", "price": "$75.00", "rating": 0, "sale": false },
+        { "id": 5, "image": "https://images.unsplash.com/photo-1575537302964-96cd47c06b1b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHNob2VzfGVufDB8fDB8fHww","type":"RecentArrivelProducts", "name": "Stylish Ankle Boots", "price": "$98.00", "rating": 0, "sale": false },
+        { "id": 6, "image": "https://images.unsplash.com/photo-1555378322-2d4b84bc2790?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fHNob2VzfGVufDB8fDB8fHww","type":"RecentArrivelProducts", "name": "Low-cut Running Shoes", "price": "$95.00", "oldPrice": "$120.00", "rating": 0, "sale": true },
+        { "id": 7, "image": "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHNob2VzfGVufDB8fDB8fHww","type":"RecentArrivelProducts", "name": "Designer Formal Shoes", "price": "$120.00", "rating": 0, "sale": false },
+        { "id": 8, "image": "https://images.unsplash.com/photo-1449505278894-297fdb3edbc1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fHNob2VzfGVufDB8fDB8fHww","type":"RecentArrivelProducts", "name": "Red High Heels", "price": "$80.00", "oldPrice": "$120.00", "rating": 4, "sale": true },
+        { "id": 9, "image": "https://images.unsplash.com/photo-1515555230216-82228b88ea98?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fHNob2VzfGVufDB8fDB8fHww","type":"RecentArrivelProducts", "name": "Comfort Slip-On Shoes", "price": "$110.00", "rating": 0, "sale": false },
+        { "id": 10, "image": "https://images.unsplash.com/photo-1521903062400-b80f2cb8cb9d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODl8fHNob2VzfGVufDB8fDB8fHww","type":"RecentArrivelProducts", "name": "White Sport Shoes", "price": "$80.00", "oldPrice": "$130.00", "rating": 4, "sale": true }
+    ],
+
+   "FeaturedProducts": [
+    { "id": 1, "image": "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2hvZXN8ZW58MHx8MHx8fDA%3D","type":"FeaturedProducts", "name": "Urban Street Sneakers", "price": "$95.00", "rating": 0, "sale": false },
+    { "id": 2, "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2hvZXN8ZW58MHx8MHx8fDA%3D","type":"FeaturedProducts", "name": "Chic Velvet Pumps", "price": "$80.00", "rating": 4, "sale": false },
+    { "id": 3, "image": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNob2VzfGVufDB8fDB8fHww","type":"FeaturedProducts", "name": "Eco Running Shoes", "price": "$80.00", "oldPrice": "$140.00", "rating": 0, "sale": true },
+    { "id": 4, "image": "https://images.unsplash.com/photo-1543508282-6319a3e2621f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHNob2VzfGVufDB8fDB8fHww","type":"FeaturedProducts", "name": "Luxe Leather Moccasins", "price": "$75.00", "rating": 0, "sale": false },
+    { "id": 5, "image": "https://images.unsplash.com/photo-1575537302964-96cd47c06b1b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHNob2VzfGVufDB8fDB8fHww","type":"FeaturedProducts", "name": "Modern Suede Boots", "price": "$98.00", "rating": 0, "sale": false },
+    { "id": 6, "image": "https://images.unsplash.com/photo-1555378322-2d4b84bc2790?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fHNob2VzfGVufDB8fDB8fHww","type":"FeaturedProducts", "name": "Air Mesh Trainers", "price": "$95.00", "oldPrice": "$120.00", "rating": 0, "sale": true },
+    { "id": 7, "image": "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHNob2VzfGVufDB8fDB8fHww","type":"FeaturedProducts", "name": "Premium Formal Derbies", "price": "$120.00", "rating": 0, "sale": false },
+    { "id": 8, "image": "https://images.unsplash.com/photo-1449505278894-297fdb3edbc1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fHNob2VzfGVufDB8fDB8fHww","type":"FeaturedProducts", "name": "Fiery Red Pumps", "price": "$80.00", "oldPrice": "$120.00", "rating": 4, "sale": true },
+    { "id": 9, "image": "https://images.unsplash.com/photo-1515555230216-82228b88ea98?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fHNob2VzfGVufDB8fDB8fHww","type":"FeaturedProducts", "name": "Slip-On Comfort Shoes", "price": "$110.00", "rating": 0, "sale": false },
+    { "id": 10, "image": "https://images.unsplash.com/photo-1521903062400-b80f2cb8cb9d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODl8fHNob2VzfGVufDB8fDB8fHww","type":"FeaturedProducts", "name": "Classic White Runners", "price": "$80.00", "oldPrice": "$130.00", "rating": 4, "sale": true }
+]
+
+,
+
+   "LatestProducts": [
+    { "id": 1, "image": "https://t4.ftcdn.net/jpg/01/76/15/47/240_F_176154797_I3boV9zvzuSlOsHKBqvyoH3NOwAt7GDF.jpg","type":"LatestProducts", "name": "Retro Canvas Sneakers", "price": "$85.00", "rating": 5, "sale": false },
+    { "id": 2, "image": "https://t3.ftcdn.net/jpg/07/20/59/86/240_F_720598639_4PXoBTOLltSczrBAqqbTYTUllFXzaK04.jpg", "type":"LatestProducts","name": "Chic Suede Ankle Boots", "price": "$75.00", "rating": 3, "sale": false },
+    { "id": 3, "image": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNob2VzfGVufDB8fDB8fHww","type":"LatestProducts", "name": "Athletic Training Shoes", "price": "$70.00", "oldPrice": "$120.00", "rating": 4, "sale": true },
+    { "id": 4, "image": "https://t3.ftcdn.net/jpg/02/77/57/08/240_F_277570841_LunmcG0HGCxeRRKb656wgHmQQEP6GX3S.jpg", "type":"LatestProducts","name": "Casual Slip-Ons", "price": "$60.00", "rating": 2, "sale": false },
+    { "id": 5, "image": "https://t3.ftcdn.net/jpg/01/61/28/84/240_F_161288417_yvAwltqKjVdWGDTJxh3OFP3YS8K27Hdw.jpg","type":"LatestProducts", "name": "Fashionable Chelsea Boots", "price": "$90.00", "rating": 4, "sale": false },
+    { "id": 6, "image": "https://t3.ftcdn.net/jpg/01/61/28/84/240_F_161288469_hoLg8eJrUqc0rw29ML4S7Rk3wXDfaq47.jpg", "type":"LatestProducts","name": "Lightweight Trail Shoes", "price": "$99.00", "oldPrice": "$130.00", "rating": 5, "sale": true },
+    { "id": 7, "image": "https://t4.ftcdn.net/jpg/06/29/56/41/240_F_629564109_bpfiR6gIeCEwiinDCx7AfnLk8MZ7udAn.jpg","type":"LatestProducts", "name": "Luxury Oxfords", "price": "$150.00", "rating": 5, "sale": false },
+    { "id": 8, "image": "https://t3.ftcdn.net/jpg/06/44/40/64/240_F_644406472_Zdx6FWzgOCQCTmOxMazwFiE3JEd4OmFH.jpg","type":"LatestProducts", "name": "Bright Summer Sandals", "price": "$40.00", "oldPrice": "$70.00", "rating": 4, "sale": true },
+    { "id": 9, "image": "https://t3.ftcdn.net/jpg/04/29/11/88/240_F_429118845_pMwmb0XBPX64JjhvtSrJ4xGgFXHfoI6T.jpg","type":"LatestProducts", "name": "Comfortable House Slippers", "price": "$50.00", "rating": 3, "sale": false },
+    { "id": 10, "image": "https://t3.ftcdn.net/jpg/05/41/38/96/240_F_541389653_OaqaWUtWEk7A3EkYMtyO1PPnUUr9abJj.jpg", "type":"LatestProducts","name": "Classic High Top Sneakers", "price": "$65.00", "oldPrice": "$100.00", "rating": 4, "sale": true }
+],
+
+
+
+   "BestSellerProducts": [
+    { "id": 1, "image": "https://t4.ftcdn.net/jpg/04/91/99/57/240_F_491995771_ux384rrV7EqNze0thS65ieLf5nqjwroT.jpg","type":"BestSellerProducts", "name": "Chic Suede Ankle Boots", "price": "$85.00", "rating": 5, "sale": false },
+    { "id": 2, "image": "https://t4.ftcdn.net/jpg/05/87/98/73/240_F_587987355_4zM7nJ0LcLAWaBNCU4Oyvh6ilbOFlJND.jpg","type":"BestSellerProducts",  "name": "Vintage Style Mary Janes", "price": "$70.00", "rating": 4, "sale": true },
+    { "id": 3, "image": "https://t3.ftcdn.net/jpg/05/73/96/96/240_F_573969679_rKcJuHjfIsXFAtTlEE30i1SIwye61VpA.jpg","type":"BestSellerProducts",  "name": "All-Weather Hiking Shoes", "price": "$120.00", "oldPrice": "$160.00", "rating": 5, "sale": true },
+    { "id": 4, "image": "https://t3.ftcdn.net/jpg/01/23/88/68/240_F_123886837_PesZ7LyXkbChdUDyzqodcABPObsJdj3t.jpg","type":"BestSellerProducts",  "name": "Stylish Casual Sneakers", "price": "$65.00", "rating": 3, "sale": false },
+    { "id": 5, "image": "https://t4.ftcdn.net/jpg/06/70/47/23/240_F_670472350_TyMZt0BBDk7FU6wjYa4C48GKgg2xav33.jpg","type":"BestSellerProducts",  "name": "Trendy Platform Boots", "price": "$105.00", "rating": 4, "sale": false },
+    { "id": 6, "image": "https://t3.ftcdn.net/jpg/05/88/41/22/240_F_588412226_3Vu5LfQ8sFONd07RotcVk5sSOIsjlP3P.jpg","type":"BestSellerProducts",  "name": "Breathable Running Trainers", "price": "$90.00", "oldPrice": "$125.00", "rating": 4, "sale": true },
+    { "id": 7, "image": "https://t4.ftcdn.net/jpg/07/10/08/55/240_F_710085512_GfJ0T4NESdVhBQxq9AXtnaWsgLK9w6TG.jpg","type":"BestSellerProducts",  "name": "Luxury Business Shoes", "price": "$150.00", "rating": 5, "sale": false },
+    { "id": 8, "image": "https://t4.ftcdn.net/jpg/05/23/79/23/240_F_523792378_tU1iiFViyU8d4ecB307RMHBTPm5ecIBY.jpg","type":"BestSellerProducts",  "name": "Classic Red Pumps", "price": "$75.00", "oldPrice": "$110.00", "rating": 4, "sale": true },
+    { "id": 9, "image": "https://t3.ftcdn.net/jpg/03/98/06/78/240_F_398067887_kxEjrgK77zLSreDKZ0q7OGkD32DWe9yF.jpg","type":"BestSellerProducts",  "name": "Comfortable Walking Sandals", "price": "$85.00", "rating": 3, "sale": false },
+    { "id": 10, "image": "https://t3.ftcdn.net/jpg/01/69/29/18/240_F_169291844_hO4Sa1JUOUI34YZouh815RfkNgOYZ5G6.jpg","type":"BestSellerProducts",  "name": "Sporty Casual Shoes", "price": "$78.00", "oldPrice": "$110.00", "rating": 4, "sale": true }
+]
+,
+
+"ShopProducts": [
+    { "id": 1, "image": "https://t4.ftcdn.net/jpg/06/60/94/67/240_F_660946787_cMtWc0zf6eXzv18hgNSjooggAfwHe3qk.jpg","type":"ShopProducts",  "name": "Vintage Brown Oxfords", "price": "$105.00", "rating": 3, "sale": false },
+    { "id": 2, "image": "https://t3.ftcdn.net/jpg/08/12/30/38/240_F_812303843_83FBDrj8ifAaKZz14cpUsa8S1fs8wJ5r.jpg","type":"ShopProducts",  "name": "Chic Suede Boots", "price": "$85.00", "rating": 5, "sale": false },
+    { "id": 3, "image": "https://t4.ftcdn.net/jpg/08/71/95/69/240_F_871956985_p9b7s8MZ0riRDmErPE1jX7rwFgt2xeII.jpg","type":"ShopProducts",  "name": "Athletic Running Sneakers", "price": "$90.00", "oldPrice": "$150.00", "rating": 2, "sale": true },
+    { "id": 4, "image": "https://t4.ftcdn.net/jpg/08/12/29/63/240_F_812296317_klWn22ziO4f7Wkvp9rBXkcBsUA7PAFlU.jpg","type":"ShopProducts",  "name": "Comfortable Casual Sneakers", "price": "$78.00", "rating": 4, "sale": false },
+    { "id": 5, "image": "https://t4.ftcdn.net/jpg/07/92/65/59/240_F_792655998_kHSvrb7q4Y7TEjERBzXdMWuxRlkKRsbk.jpg","type":"ShopProducts",  "name": "Trendy Chunky Boots", "price": "$102.00", "rating": 3, "sale": false },
+    { "id": 6, "image": "https://t4.ftcdn.net/jpg/06/60/94/67/240_F_660946788_WHey9DCgiZkQfsfIsA0viiyujwHJcWVo.jpg","type":"ShopProducts",  "name": "Breathable Sport Shoes", "price": "$88.00", "oldPrice": "$125.00", "rating": 1, "sale": true },
+    { "id": 7, "image": "https://t3.ftcdn.net/jpg/06/68/96/30/240_F_668963071_2Yb4z19NKKpDbgCM0obmfpGm7KhXvPkA.jpg","type":"ShopProducts",  "name": "Luxury Office Shoes", "price": "$115.00", "rating": 4, "sale": false },
+    { "id": 8, "image": "https://t4.ftcdn.net/jpg/09/60/79/71/240_F_960797187_mwjUKioD2AggqGvaNNWYP0PUJ0fUOvHJ.jpg","type":"ShopProducts",  "name": "Glamorous Red Stilettos", "price": "$99.00", "oldPrice": "$140.00", "rating": 5, "sale": true },
+    { "id": 9, "image": "https://t4.ftcdn.net/jpg/07/50/44/87/240_F_750448702_PHrC6ru9ilwlLQVcnfIaLgF6CqG5qjcB.jpg", "type":"ShopProducts", "name": "Relaxed Slip-On Loafers", "price": "$120.00", "rating": 2, "sale": false },
+    { "id": 10, "image": "https://t4.ftcdn.net/jpg/08/23/59/09/240_F_823590927_pqMziwpSAU6nIKsNgAl0iLKDaVn81UOY.jpg", "type":"ShopProducts", "name": "Cool White Sneakers", "price": "$75.00", "oldPrice": "$135.00", "rating": 5, "sale": true }
+]
+
+}
